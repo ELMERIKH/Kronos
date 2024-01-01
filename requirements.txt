@@ -1,0 +1,5 @@
+aspose-slides
+aspose-words
+argparse
+colorama 
+aspose-cells
